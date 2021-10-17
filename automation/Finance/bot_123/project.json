@@ -1,5 +1,5 @@
 {
-  "name": "bot_2",
+  "name": "bot_123",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "1d32661e-8e28-481a-9cbd-d034d10833af",
+      "uniqueId": "b60b4b2f-c6bd-4e25-8afb-306f9b94e0f0",
       "input": [],
       "output": []
     }
